@@ -56,9 +56,9 @@
 		98E7ACD42549D62900D6B5C8 /* GithubTest */ = {
 			isa = PBXGroup;
 			children = (
+				98E7ACD92549D62900D6B5C8 /* ViewController.swift */,
 				98E7ACD52549D62900D6B5C8 /* AppDelegate.swift */,
 				98E7ACD72549D62900D6B5C8 /* SceneDelegate.swift */,
-				98E7ACD92549D62900D6B5C8 /* ViewController.swift */,
 				98E7ACDB2549D62900D6B5C8 /* Main.storyboard */,
 				98E7ACDE2549D62B00D6B5C8 /* Assets.xcassets */,
 				98E7ACE02549D62B00D6B5C8 /* LaunchScreen.storyboard */,
